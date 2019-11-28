@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6678b487473a642b1d38efec3fc965, type: 3}
+  m_Name: "Ep\xE9e"
+  m_EditorClassIdentifier: 
+  noun: "\xE9p\xE9e"
+  description: "Une \xE9p\xE9e dont la lame est aussi brillante que le soleil est
+    coinc\xE9e dans la pierre"
+  interactions:
+  - inputAction: {fileID: 11400000, guid: 415211c8343ad86419f7a1a32db3f8a7, type: 2}
+    textResponse: "Une plaque inscrit sur la roche indique le texte suivant : \"Seul
+      une \xE2me pure pourra pr\xE9tendre \xE0 la puissance de cette lame\""
+    actionResponse: {fileID: 0}
+  - inputAction: {fileID: 11400000, guid: e522079b6fcc4ce48b3b5a40af7e3e76, type: 2}
+    textResponse: "Vous montez sur la pierre : de toutes vos forces, vous parvenez
+      \xE0 retirer l'\xE9p\xE9e !"
+    actionResponse: {fileID: 0}
+  - inputAction: {fileID: 11400000, guid: 0ddbd6b77de8ff242ad76e753ad947c4, type: 2}
+    textResponse: 
+    actionResponse: {fileID: 11400000, guid: efc2f9aae5c54fd4ab6891893bf9d4af, type: 2}
