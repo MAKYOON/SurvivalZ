@@ -12,8 +12,7 @@ Unit 1 : Player Control
 **Lesson 1.3** : Rajout d'un script à la caméra qui suit le joueur, avec un offset pour la placer derrière la voiture, et d'une variable publique accessible pour modifier la vitesse de la voiture   
 **Lesson 1.4** : Rajout du fait de pouvoir contrôler la voiture, et la faire tourner  
 **Challenge 1** : Petit projet d'un avion qui vole avec quelques bugs que l'on doit corriger. Cela reprend ce qu'on a vu dans les différentes leçons.  
-**Lab 1 - Project Design Document ** : Réalisation de leur "Project Design Document" en essayant d'instaurer des timelines pour différents objectifs  
-**Quiz 1** : Réalisation du quiz  
+**Lab 1 - Project Design Document** : Réalisation de leur "Project Design Document" en essayant d'instaurer des timelines pour différents objectifs. En principe, c'est de se créer un projet personnel tout au long des cours (et que l'on avance au fur et à mesure d'apprendre de nouvelles choses dans les cours.
   
 Pour le build, j'en ai profité pour faire en sorte que lorsqu'on atteint la fin du niveau avec la voiture (on dépasse les barrières) cela nous emmène au challenge directement.
 
