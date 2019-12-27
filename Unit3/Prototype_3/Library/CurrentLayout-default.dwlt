@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 75
+  controlID: 54
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 76
+  controlID: 97
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -546,7 +546,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.10943292, y: -0.053055923, z: 0.0058495076, w: -0.9925608}
     speed: 2
-    m_Value: {x: -0.10943283, y: -0.05305588, z: 0.005849503, w: -0.99255997}
+    m_Value: {x: -0.10943292, y: -0.053055923, z: 0.0058495076, w: -0.9925608}
   m_Size:
     m_Target: 52.17758
     speed: 2
@@ -631,9 +631,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 24320000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: faf8ffff78fbffff
+      m_ExpandedIDs: 4cf8ffff8af8ffff78f9ffff82f9ffff78fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -695,13 +695,12 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Scenes
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 34
   m_LastFolders: []
   m_LastFoldersGridSize: 34
-  m_LastProjectPath: D:\Local_UnityLearn\Unit3\Prototype_3
+  m_LastProjectPath: D:\Git_UnityLearn\Certification_Unity\Cours2_CreateWithCode\Unit3\Prototype_3
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
