@@ -631,9 +631,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 68280000
       m_LastClickedID: 0
-      m_ExpandedIDs: 4cf8ffff8af8ffff78f9ffff82f9ffff78fbffff
+      m_ExpandedIDs: 52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -695,7 +695,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Challenge 3/Scripts
   m_ViewMode: 0
   m_StartGridSize: 34
   m_LastFolders: []
@@ -735,7 +736,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000007c2d0000e62d0000e42e0000203000002c300000b03000005a3100001632000086320000f2320000
+    m_ExpandedIDs: ffffffff000000007c2d0000e62d0000e42e0000203000002c300000b03000005a310000163200007632000086320000f2320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
